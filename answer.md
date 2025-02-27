@@ -23,5 +23,6 @@
 **Set Cookie value to 1 and refresh**
 
 <br/>
+
 ![image](https://github.com/user-attachments/assets/d3d3eeb3-594b-4059-9d8e-ef0675bfa840)
 **Get the flag**
